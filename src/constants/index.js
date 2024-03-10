@@ -242,9 +242,9 @@ export const projects = [
     {
         iconUrl: estate,
         theme: 'btn-back-black',
-        name: 'Real-Estate Application',
-        description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://github.com/adrianhajdin/projects_realestate',
+        name: '3D Portfolio',
+        description: 'Developed a 3d portfolio website using Three.js , Tailwind CSS, React by Vite and Emailjs. With a live hosting on deployment platform. Used SketchFab for free 3d models.',
+        link: 'https://github.com/Rihan2710/3d_portfolio',
     },
     {
         iconUrl: lock,
